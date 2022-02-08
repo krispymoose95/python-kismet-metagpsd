@@ -3,7 +3,7 @@ Python script that sends location updates from gpsd to a Kismet server.
 
 Added in Kismet 2022-01-R3, data sources may use the metagps option. This script is intended to be used alongside a Kismet remote capture tool with a source using this new metagps option.
 
-Special thanks to [@ckoval7](ckoval7/) and his work on [kisStatic2Mobile](ckoval7/kisStatic2Mobile) for the inspiration!
+Special thanks to [@ckoval7](https://github.com/ckoval7/) and his work on [kisStatic2Mobile](https://github.com/ckoval7/kisStatic2Mobile) for the inspiration!
 
 # Requirements
  - websockets
